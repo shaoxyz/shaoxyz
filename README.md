@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Shao.<br> I'm a Backend Developer from China.<br><br>#Python, #Vue, #Go</samp>
+  <samp>Hello there. I'm Shao.<br> I'm a Backend Developer from China.<br><br>#Python, #Vue, #Go, #React</samp>
   <br>
   <br>
   <br>
